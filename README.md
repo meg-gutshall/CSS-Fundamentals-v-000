@@ -291,7 +291,7 @@ same for each digit. So `#111111` can be written as `#111`.
 
 #### RGB Color Values
 
-We can also work directly with RBG values.
+We can also work directly with RGB values.
 
 ```
 p {
